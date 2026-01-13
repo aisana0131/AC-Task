@@ -246,16 +246,6 @@ okta_users = {
 
 # Usage
 
-Absolutely, Aisana — here’s a **clean, professional, production‑ready README section** specifically for **Usage of the Centralized Workflow**.  
-This fits perfectly into a repo where you have:
-
-- a **centralized reusable workflow** in `.github/workflows/centralized-workflow.yaml`
-- multiple **caller repos** that trigger it
-- Terraform automation
-- OIDC authentication
-- artifact passing (plans, metadata, etc.)
-
----
 
 # Usage: Centralized Reusable Workflow
 
