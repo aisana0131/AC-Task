@@ -330,7 +330,7 @@ jobs:
 
 ---
 
-## 🛠️ 3. What the Centralized Workflow Does
+## 3. What the Centralized Workflow Does
 
 Once triggered, the centralized workflow:
 
@@ -359,7 +359,7 @@ From GitHub UI:
 1. Go to **Actions**  
 2. Select **Deploy Infrastructure**  
 3. Click **Run workflow**  
-4. Choose environment (e.g., `dev`)  
+4. Choose environment (e.g., `dev`, `main`)  
 5. Run  
 
 The centralized workflow handles everything else.
