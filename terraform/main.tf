@@ -22,7 +22,7 @@ data "aws_secretsmanager_secret_version" "okta_private_key" {
 
 
 module "okta" {
-  source = "./modules/okta"
+  source = "./modules/users"
 
   users          = var.okta_users
   default_groups = var.default_groups
